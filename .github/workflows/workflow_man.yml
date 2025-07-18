@@ -17,7 +17,5 @@ jobs:
           distribution: 'temurin'
           cache: 'maven'
 
-      - name: build using maven
-        run: mvn clean install
-
+  
       
